@@ -9,6 +9,7 @@ body {
   width: 100%;
   top: 0;
   left: 0;
+  z-index: 100;
 }
 
 .btn_white_bg {
@@ -29,4 +30,24 @@ body {
   font-size: 0.8rem;
   font-weight: 600;
   padding: 10px 30px 10px 30px;
+}
+
+.carousel img {
+  max-height: 800px;
+  max-width: 75%;
+  margin: 0 auto;
+  opacity: 0.6;
+  border-radius: 10px;
+}
+
+.feature-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 4rem;
+  height: 4rem;
+  margin-bottom: 1rem;
+  font-size: 2rem;
+  color: #fff;
+  border-radius: 0.75rem;
 }
