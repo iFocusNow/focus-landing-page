@@ -4,11 +4,17 @@ body {
   font-family: "Poppins", sans-serif;
 }
 
+.navbar {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+
 .btn_white_bg {
   background: #fff;
   color: #5070d1;
   border-radius: 6px;
-  margin-left: 20px;
   font-size: 0.8rem;
   font-weight: 600;
   padding: 10px 30px 10px 30px;
