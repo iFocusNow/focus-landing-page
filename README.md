@@ -60,3 +60,6 @@ Los tests han sido realizado como "pruebas de aceptación" en <a href="https://g
 
 - [@avi](https://github.com/avi-2-avi) - HTML & CSS
 - [@fran](https://github.com/novarios1506) - Javascript
+- [@csar](https://github.com/Cxsxrr) - Tester
+- [@liss](https://github.com/Lisaneitor) - UX Designer
+- [@hiro](https://github.com/HiroCardenas) - Tester
