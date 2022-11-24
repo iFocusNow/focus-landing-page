@@ -117,3 +117,7 @@ input[type="submit"]:hover {
 .square_asunto {
   width: 18rem;
 }
+
+.site-footer {
+  background-color: #5070d1;
+}
