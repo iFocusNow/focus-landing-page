@@ -121,3 +121,14 @@ input[type="submit"]:hover {
 .site-footer {
   background-color: #5070d1;
 }
+
+.phone-img {
+  width: 80%;
+}
+
+@media screen and (min-width: 480px) {
+  .phone-img {
+    width: auto;
+    height: 640px;
+  }
+}
