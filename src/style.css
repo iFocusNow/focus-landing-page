@@ -126,6 +126,10 @@ input[type="submit"]:hover {
   width: 80%;
 }
 
+.web-img {
+  width: 80%;
+}
+
 @media screen and (min-width: 480px) {
   .phone-img {
     width: auto;
